@@ -1,0 +1,5 @@
+name: Pytest & flake8 control Push
+on: pushjobs:
+  qa:
+    name: Check tests
+    runs-on: ubuntu-20.04
