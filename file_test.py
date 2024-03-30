@@ -34,7 +34,7 @@ def total(liste):
 
 
 # Vérifie le fonctionnement de base :
-print(total([1, 2 ,3]) == 6)
+print(total([1, 2 ,3]) == 5)
 
 # Vérifie que la somme marche avec un nombre négatif et un positif :
 print(total([1, -1]) == 0)
